@@ -1,0 +1,9 @@
+[submodule "dos400"]
+	path = dos400
+	url = https://github.com/neozeed/dos400
+[submodule "himem.sys-2.06"]
+	path = himem.sys-2.06
+	url = https://github.com/neozeed/himem.sys-2.06
+[submodule "GW-BASIC-tkchia-devel"]
+	path = GW-BASIC-tkchia-devel
+	url = https://github.com/neozeed/GW-BASIC-tkchia-devel
